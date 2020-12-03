@@ -1,4 +1,1 @@
-# IMF Master
-Just another repository
-
-Hello everyone!
+# IMF Master in Data Science and Business Analytics
